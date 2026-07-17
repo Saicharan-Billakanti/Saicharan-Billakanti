@@ -65,3 +65,11 @@ I build full-stack systems and experiment with real-world AI — from Docker-san
 
 </div>
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saicharan-Billakanti&theme=tokyo-night&area=true&hide_border=true" />
+
+</div>
+
