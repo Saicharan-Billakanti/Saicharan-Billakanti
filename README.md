@@ -51,16 +51,16 @@ I build full-stack systems and experiment with real-world AI — from Docker-san
 <div align="center">
 
 <a href="https://github.com/Saicharan-Billakanti/OJ_PROJECT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saicharan-Billakanti&repo=OJ_PROJECT&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Saicharan-Billakanti&repo=OJ_PROJECT&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Saicharan-Billakanti/Align">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saicharan-Billakanti&repo=Align&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Saicharan-Billakanti&repo=Align&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Saicharan-Billakanti/sme-finance-intelligence">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saicharan-Billakanti&repo=sme-finance-intelligence&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Saicharan-Billakanti&repo=sme-finance-intelligence&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Saicharan-Billakanti/ROBOTICS-AND-MFC-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saicharan-Billakanti&repo=ROBOTICS-AND-MFC-REPO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Saicharan-Billakanti&repo=ROBOTICS-AND-MFC-REPO&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -69,8 +69,8 @@ I build full-stack systems and experiment with real-world AI — from Docker-san
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saicharan-Billakanti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saicharan-Billakanti&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Saicharan-Billakanti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saicharan-Billakanti&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=Saicharan-Billakanti&theme=tokyonight&hide_border=true" />
 
