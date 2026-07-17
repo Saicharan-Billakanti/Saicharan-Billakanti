@@ -77,11 +77,3 @@ I build full-stack systems and experiment with real-world AI — from Docker-san
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saicharan-Billakanti&theme=tokyo-night&area=true&hide_border=true" />
 
 </div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Saicharan-Billakanti&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
