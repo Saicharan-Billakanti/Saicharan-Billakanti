@@ -69,9 +69,6 @@ I build full-stack systems and experiment with real-world AI — from Docker-san
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Saicharan-Billakanti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saicharan-Billakanti&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://streak-stats.demolab.com?user=Saicharan-Billakanti&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saicharan-Billakanti&theme=tokyo-night&area=true&hide_border=true" />
